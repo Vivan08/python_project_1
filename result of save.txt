@@ -1,0 +1,6 @@
+student name :Vivan Sethi 
+ roll number is : 2501060035 
+program is BCA(AI&DS) 
+University : K.R Manglam 
+City is :Delhi 
+hobby is Gaming
